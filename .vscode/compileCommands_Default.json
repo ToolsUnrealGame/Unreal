@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Oneshot_FPS.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Oneshot_FPS.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Oneshot_FPS.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Private\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Private\\ReactPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Private\\ReactiveLamp.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Private\\ReceiveCollsion.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Private\\TransferCollision.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Public\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Public\\ReactPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Public\\ReactiveLamp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Public\\ReceiveCollsion.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\Source\\Oneshot_FPS\\Public\\TransferCollision.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\lamod\\Desktop\\GitRep\\OneShotFPS\\.vscode\\compileCommands_Default\\Oneshot_FPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
